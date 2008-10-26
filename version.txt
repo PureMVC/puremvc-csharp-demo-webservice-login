@@ -9,6 +9,6 @@ Release Date: 02/16/08
       Author: Matt Brailsford <matt.brailsford@puremvc.org>
      License: Creative Commons Attribution 3.0 United States License
 --------------------------------------------------------------------------
-1.0 - 
+1.0 - Inital code import - MB
 
 0.9 - Checked in initial folder structure and license - CLH
