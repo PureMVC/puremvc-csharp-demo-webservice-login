@@ -1,0 +1,15 @@
+<!-- 
+  PureMVC CSharp / Silverlight / Webservice Demo - Login
+  By Matt Brailsford <matt.brailsford@puremvc.org>
+  Copyright(c) 2007-08 Matt Brailsford, Some rights reserved.
+-->
+﻿<UserControl x:Class="PureMVC.CSharp.Demos.Silverlight.WebService.Login.Silverlight.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:view="clr-namespace:PureMVC.CSharp.Demos.Silverlight.WebService.Login.Silverlight.View.Components"
+    Width="600" Height="450">
+    <Grid x:Name="LayoutRoot" Background="#FF111111">
+    	<view:LoginView x:Name="vwLogin" Visibility="Collapsed"></view:LoginView>
+    	<view:LoggedInView x:Name="vwLoggedIn" Visibility="Collapsed"></view:LoggedInView>
+    </Grid>
+</UserControl>

@@ -1,0 +1,23 @@
+<publishData>
+  <publishTarget publishUrl="D:\Sandbox\PureMVCDemos\Demo_CSharp_Silverlight_WebService_Login\Build\">
+    <file relUrl="bin/zh-Hant/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="bin/System.Web.Silverlight.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="bin/de/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="bin/ja/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="Web.config" publishTime="10/26/2008 10:51:16" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="10/26/2008 10:15:46" />
+    <file relUrl="bin/PureMVC.CSharp.Demos.Silverlight.WebService.Login.Web.dll" publishTime="10/26/2008 13:13:41" />
+    <file relUrl="bin/PureMVC.CSharp.Demos.Silverlight.WebService.Login.Web.pdb" publishTime="10/26/2008 13:13:41" />
+    <file relUrl="bin/zh-Hans/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="bin/fr/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="ClientBin/PureMVC.CSharp.Demos.Silverlight.WebService.Login.Silverlight.xap" publishTime="10/26/2008 13:32:09" />
+    <file relUrl="bin/PureMVC.Silverlight.LoginDemo.Web.dll" publishTime="10/26/2008 10:51:18" />
+    <file relUrl="Services/LoginService.asmx" publishTime="10/26/2008 12:47:35" />
+    <file relUrl="bin/it/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="bin/PureMVC.Silverlight.LoginDemo.Web.pdb" publishTime="10/26/2008 10:51:17" />
+    <file relUrl="bin/ko/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+    <file relUrl="Default.aspx" publishTime="10/26/2008 12:47:35" />
+    <file relUrl="Silverlight.js" publishTime="10/25/2008 15:53:58" />
+    <file relUrl="bin/es/System.Web.Silverlight.resources.dll" publishTime="10/05/2008 02:53:18" />
+  </publishTarget>
+</publishData>
