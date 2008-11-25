@@ -1,4 +1,9 @@
-﻿using System.Windows.Controls;
+/* 
+  PureMVC CSharp / Silverlight / Webservice Demo - Login
+  By Matt Brailsford <matt.brailsford@puremvc.org>
+  Copyright(c) 2007-08 Matt Brailsford, Some rights reserved.
+*/
+﻿﻿using System.Windows.Controls;
 using PureMVC.CSharp.Demos.Silverlight.WebService.Login.Silverlight.Model.Dto;
 
 namespace PureMVC.CSharp.Demos.Silverlight.WebService.Login.Silverlight.View.Components

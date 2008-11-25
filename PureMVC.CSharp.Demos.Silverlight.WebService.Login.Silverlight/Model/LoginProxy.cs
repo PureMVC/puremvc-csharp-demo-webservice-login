@@ -1,3 +1,8 @@
+/* 
+  PureMVC CSharp / Silverlight / Webservice Demo - Login
+  By Matt Brailsford <matt.brailsford@puremvc.org>
+  Copyright(c) 2007-08 Matt Brailsford, Some rights reserved.
+*/
 ﻿using System;
 using System.ServiceModel;
 using System.Windows.Browser;
